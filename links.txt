@@ -1,0 +1,3 @@
+Publish website => https://docs.expo.dev/distribution/publishing-websites/
+EAS => https://docs.expo.dev/eas/
+Build APK => https://docs.expo.dev/build-reference/apk/
